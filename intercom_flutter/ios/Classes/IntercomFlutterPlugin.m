@@ -1,5 +1,4 @@
 #import "IntercomFlutterPlugin.h"
-#import <Intercom/Intercom.h>
 
 id unread;
 
