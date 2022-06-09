@@ -1,5 +1,5 @@
 #import "IntercomFlutterPlugin.h"
-#import <Intercom/Intercom.h>
+#import <intercom_flutter/Intercom.h>
 
 
 
